@@ -1,3 +1,19 @@
+language['cs_CZ'] = {
+    'Available' : 'Volno',
+    'Until'     : 'Až do',
+    'Use Now'   : 'Využít teď',
+    'End Now'   : 'Ukončit teď',
+    'Extend'    : 'Prodloužit',
+    'Loading...': 'Nahrává se...',
+    'Back'      : 'Zpět',
+    'min'       : 'min',
+    'Till Next' : 'Do další',
+    'Occupied'  : 'Obsazeno',
+    'No Upcoming Events' : 'Žádné nadcházející události',
+    'Connecting...'      : 'Připojuji se...',
+    'No Calendar': 'Žádný kalendář',
+    'No Title'   : 'Žádný nadpis',
+}
 
 language['de_DE'] = {
     'Available' : 'Verfügbar',
